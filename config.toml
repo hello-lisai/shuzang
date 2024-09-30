@@ -25,7 +25,7 @@ enableEmoji = true
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
-    name = "文章"
+    name = "内容"
     url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
@@ -90,7 +90,7 @@ enableEmoji = true
   # FixIt 0.2.15 | CHANGED FixIt theme version
   version = "0.2.X" # e.g. "0.2.X", "0.2.15", "v0.2.15" etc.
   # site description
-  description = "书藏的个人博客，记录学习，记录生活"
+  description = "？？？"
   # site keywords
   keywords = ["Blog", "Blockchain", "Book", "Movie", "Life","Journey"]
   # site default theme ["light", "dark", "auto"]
@@ -115,7 +115,7 @@ enableEmoji = true
   # FixIt 0.2.0 | NEW App icon config
   [params.app]
     # optional site title override for the app when added to an iOS home screen or Android launcher
-    title = "Shuzang's Blog"
+    title = "L's Blog"
     # whether to omit favicon resource links
     noFavicon = false
     # modern SVG favicon to use in place of older style .png and .ico files
@@ -280,7 +280,7 @@ enableEmoji = true
       # FixIt 0.2.7 | CHANGED title shown in home page (HTML format is supported)
       title = ""
       # subtitle shown in home page
-      subtitle = "怪贪婪嫉妒，让恶魔看见了把柄"
+      subtitle = "李某人的官网"
       # whether to use typeit animation for subtitle
       typeit = true
       # whether to show social links
