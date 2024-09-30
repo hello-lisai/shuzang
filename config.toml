@@ -3,7 +3,7 @@
 # See: https://fixit.lruihao.cn/documentation/basics/#menu-configuration
 # -------------------------------------------------------------------------------------
 
-title = "Yaosai's Blog"
+title = "L's Blog"
 baseURL = "https://hello-lisai.github.io"
 # 设置默认的语言 ["en", "zh-cn", "fr", "pl", ...]
 defaultContentLanguage = "zh-cn"
