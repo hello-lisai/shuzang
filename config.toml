@@ -172,7 +172,7 @@ enableEmoji = true
     [params.header.title]
       # URL of the LOGO
       # logo = "/images/avatar.png"
-      logo = "https://c-ssl.dtstatic.com/uploads/blog/202402/19/ZOSJGDq3UmV5LPa.thumb.400_0.jpeg"
+      logo = "https://img-4l1.pages.dev/t.png"
       # title name
       name = "L's Blog"
       # you can add extra information before the name (HTML format is supported), such as icons
@@ -274,7 +274,7 @@ enableEmoji = true
       gravatarEmail = ""
       # URL of avatar shown in home page
       # avatarURL = "/images/avatar.png"
-      avatarURL = "https://c-ssl.dtstatic.com/uploads/blog/202402/19/ZOSJGDq3UmV5LPa.thumb.400_0.jpeg"
+      avatarURL = "https://img-4l1.pages.dev/t.png"
       # FixIt 0.2.17 | NEW identifier of avatar menu link
       avatarMenu = ""
       # FixIt 0.2.7 | CHANGED title shown in home page (HTML format is supported)
@@ -903,7 +903,7 @@ enableEmoji = true
   email = "2284903076@qq.com"
   link = ""
   # avatar = "/images/avatar.png" # FixIt 0.2.18 | 新增
-  avatar = "https://c-ssl.dtstatic.com/uploads/blog/202402/19/ZOSJGDq3UmV5LPa.thumb.400_0.jpeg"
+  avatar = "https://img-4l1.pages.dev/t.png"
 
 # 网站地图配置
 [sitemap]
